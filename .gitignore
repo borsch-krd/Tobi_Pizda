@@ -1,0 +1,51 @@
+```
+# Logs and temp files
+*.log
+server.log
+
+# Database
+server/notes.db
+
+# Distribution artifacts
+dist/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.env
+.env.local
+.env.*
+.venv/
+venv/
+ENV/
+env.bak/
+.ENV.bak/
+
+# Coverage
+.coverage
+htmlcov/
+.coverage.*
+.coverage
+.nyc_output
+istanbul/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+```
